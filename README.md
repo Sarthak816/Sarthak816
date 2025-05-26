@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]!
+# Hi there, I'm Sarthak Pal!
 
 Aspiring Software Engineer | Spring Boot & Java Enthusiast | Competitive Coder | Forage Job Simulation Graduate | Tech Explorer
 
