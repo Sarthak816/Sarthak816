@@ -35,9 +35,8 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 - **Languages:** Java, C++, C, HTML/CSS, JavaScript  
 - **Frameworks:** Spring Boot  
-- **Tools:** Git, GitHub, IntelliJ, VS Code  
+- **Tools:** Git, GitHub, IntelliJ, VS Code, Eclipse, Netbeans
 - **Databases:** MySQL  
-- **OS:** Windows, Linux
 
 ---
 
