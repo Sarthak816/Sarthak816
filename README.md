@@ -12,29 +12,20 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ---
 
-## What I’m Working On
-
-- Building a **URL Shortener in Java using Spring Boot**.
-- Completing job simulations to gain real-world industry experience.
-- Upgrading my physical and vocal presentation through consistent self-improvement routines.
-- Preparing for core CS topics like **Data Structures**, **Computer Organization**, and **Operating Systems**.
-
----
-
 ## Certifications & Simulations
 
 - **Tata Data Visualization (Forage)**
 - **Electronic Arts Software Engineering (Forage)**
 - **Walmart USA Advanced Software Engineering (Forage)**
-- **GE Aerospace Digital Technology (Forage)**
-- **Tata Cybersecurity Security Analyst (Forage)**
+- **Java basics (HackerRank)**
+- **SQL advanced (HackerRank)**
 
 ---
 
 ## Tech Stack
 
-- **Languages:** Java, C++, C, HTML/CSS, JavaScript  
-- **Frameworks:** Spring Boot  
+- **Languages:** Java, C++, C, HTML/CSS, JavaScript, Dart  
+- **Frameworks:** Spring Boot,   
 - **Tools:** Git, GitHub, IntelliJ, VS Code, Eclipse, Netbeans
 - **Databases:** MySQL  
 
@@ -43,8 +34,7 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 ## Let's Connect
 
 - [LinkedIn](#)  
-- [Email](mailto:you@example.com)  
-- [Portfolio](#) *(Coming Soon)*
+- [Email](sarthakpal37@gmail.com)  
 
 ---
 
