@@ -33,7 +33,7 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ## Let's Connect
 
-- [LinkedIn](#)  
+- [LinkedIn](https://www.linkedin.com/in/sarthak-pal-70a00a301/)  
 - [Email](sarthakpal37@gmail.com)  
 
 ---
