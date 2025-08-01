@@ -24,10 +24,18 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ## Tech Stack
 
-- **Languages:** Java, C++, C, HTML/CSS, JavaScript, Dart  
-- **Frameworks:** Spring Boot,   
-- **Tools:** Git, GitHub, IntelliJ, VS Code, Eclipse, Netbeans
-- **Databases:** MySQL  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ---
 
@@ -41,6 +49,6 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 **“Always learning, always building.”**
 ## 📊 GitHub Stats
 
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak816&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak816&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak816&layout=compact&theme=radical&hide_border=true)
