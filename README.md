@@ -39,3 +39,8 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 ---
 
 **“Always learning, always building.”**
+## 📊 GitHub Stats
+
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![Sarthak's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true)
