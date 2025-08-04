@@ -51,4 +51,3 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak816&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak816&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak816&layout=compact&theme=radical&hide_border=true)
