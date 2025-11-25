@@ -1,24 +1,14 @@
 # Hi there, I'm Sarthak Pal!
 
-Aspiring Software Engineer | Spring Boot & Java Enthusiast | Competitive Coder | Forage Job Simulation Graduate | Tech Explorer
+Aspiring Software Engineer | Spring Boot & Java Enthusiast | Competitive Coder |  Tech Explorer
 
 ---
 
 ## About Me
 
-I’m passionate about building efficient, scalable, and impactful software solutions. Currently diving deep into full-stack development with a focus on Java, Spring Boot, and system design. I also enjoy working on resource-efficient game engines and tackling unique C++ projects.  
+I’m passionate about building efficient, scalable, and impactful software solutions. Currently diving deep into full-stack development with a focus on Java, Spring Boot, and system design. I also enjoy working on resource-efficient game engines and tackling unique projects.  
 
-Actively participating in coding challenges like the **GFG 160 Days Coding Challenge** to sharpen my problem-solving skills.
-
----
-
-## Certifications & Simulations
-
-- **Tata Data Visualization (Forage)**
-- **Electronic Arts Software Engineering (Forage)**
-- **Walmart USA Advanced Software Engineering (Forage)**
-- **Java basics (HackerRank)**
-- **SQL advanced (HackerRank)**
+Actively participating in coding challenges like the **GFG 160 Days Coding Challenge** **Hackathons** to sharpen my problem-solving skills.
 
 ---
 
@@ -46,8 +36,8 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ---
 
-**“Always learning, always building.”**
-## 📊 GitHub Stats
+**“Build. Break. Rebuild better.”**
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak816&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarthak816&theme=radical&hide_border=true)
