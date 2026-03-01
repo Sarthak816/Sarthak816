@@ -31,8 +31,11 @@ Actively participating in coding challenges like the **GFG 160 Days Coding Chall
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/sarthak-pal-70a00a301/)  
-- [Email](sarthakpal37@gmail.com)  
+🤝 Connect with me on:
+  <a href="https://www.linkedin.com/in/sarthak-pal-70a00a301" target="_blank" > <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="vertical-align: middle;" /></a>
+  <a href="mailto:sarthakpal37@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" style="vertical-align: middle;" /></a>
+  <a href="https://github.com/Sarthak816" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" style="vertical-align: middle;" /></a>
+  <a href="https://leetcode.com/Sarthak816" target="_blank"> <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" style="vertical-align: middle;" /></a> 
 
 ---
 
